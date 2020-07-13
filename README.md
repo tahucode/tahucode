@@ -1,6 +1,6 @@
 ## Hello World!
 
-![GitHub Logo](/images/Logo Full TahuCode JPG.jpg)
+![GitHub Logo](/images/tahucode_logo.jpg)
 
 ### Thanks for coming!
 
