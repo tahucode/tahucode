@@ -1,6 +1,6 @@
 ## Hello World!
 
-![Tahucode Logo](/images/tahucode_logo.jpg)
+![Tahucode Logo](https://res.cloudinary.com/dfxbvy2rn/image/upload/v1594620770/Logo_Full_TahuCode_JPG_nwmjvq.jpg)
 
 ### Thanks for coming!
 
